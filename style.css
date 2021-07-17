@@ -1,0 +1,44 @@
+
+          
+ h1 {color:blueviolet}
+ h2{color:darkorange;}
+ 
+
+ p{
+font-size:150%;
+color:black;
+text-align:center;
+}
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+}
+
+.intro{
+    background-color: chartreuse;
+}
+
+.origami{
+    background-color:lightcyan;
+    border:2px solid lightcyan;
+    border-radius:50px;
+    
+}
+
+body{
+    background-color:lightblue;
+}
+
+.grid img{
+    border:2px solid black;
+    border-radius:50px;
+}
+
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+   
